@@ -73,7 +73,7 @@ In this task, I worked on a case study related to UPI fraud and created a preven
 
 ## 📄 Final Report
 
-The complete project report is available in the `report/` folder of this repository.
+The complete project report is available in the `report` folder of this repository.
 
 ---
 
