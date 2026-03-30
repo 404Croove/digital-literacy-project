@@ -1,7 +1,8 @@
 # Digital Literacy Project
 
 **Name:** Siddhartha Singh Sikarwar
-**Registration Number:** 25BCE11120
+
+**Registration Number:** 25BCE107884
 
 **College:** VIT Bhopal University
 **Course:** B.Tech CSE
@@ -53,8 +54,8 @@ In this task, I worked on a case study related to UPI fraud and created a preven
 
 ## 🔗 Links
 
-* Google Form: *(Add your link here)*
-* GitHub Profile: *(Add your link here)*
+* Google Form: *https://docs.google.com/forms/d/e/1FAIpQLSeHy2cstCbZulgaZMiii2yRr7DBFCw5vXON2dh4oo_dBN8Vlw/viewform?usp=publish-editor*
+* GitHub Profile: *https://github.com/404Croove*
 
 ---
 
